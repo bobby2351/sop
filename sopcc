@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+
+-<favorite>
+
+
+-<item id="001">
+
+<name>PROTV calitate [sep19] </name>
+
+<address>sop://broker.sopcast.com:3912/256338 </address>
+
+</item>
+
+
+-<item id="002">
+
+<name>PROTV consuma putin </name>
+
+<address>sop://broker.sopcast.com:3912/151380 </address>
+
+</item>
+
+
+-<item id="003">
+
+<name>ANTENA 1 calitate </name>
+
+<address>sop://broker.sopcast.com:3912/149257 </address>
+
+</item>
+
+
+-<item id="004">
+
+<name>ANTENA 1 consuma putin </name>
+
+<address>sop://broker.sopcast.com:3912/151301 </address>
+
+</item>
+
+
+-<item id="005">
+
+<name>PRO CINEMA </name>
+
+<address>sop://broker.sopcast.com:3912/148249 </address>
+
+</item>
+
+
+-<item id="006">
+
+<name>HBO 1 calitate [sep19] </name>
+
+<address>sop://185.122.59.8:3912/264971 </address>
+
+</item>
+
+
+-<item id="007">
+
+<name>HBO 2 [sep19] </name>
+
+<address>sop://185.122.59.8:3912/265067 </address>
+
+</item>
+
+
+-<item id="008">
+
+<name>HBO 3 Ro </name>
+
+<address>sop://broker.sopcast.com:3912/149255 </address>
+
+</item>
+
+
+-<item id="009">
+
+<name>CINEMAX [sep19] </name>
+
+<address>sop://185.122.59.8:3912/265011 </address>
+
+</item>
+
+
+-<item id="010">
+
+<name>PARAMOUNT CHANNEL </name>
+
+<address>sop://broker.sopcast.com:3912/253033 </address>
+
+</item>
+
+
+-<item id="011">
+
+<name>DIGI FILM </name>
+
+<address>sop://51.15.38.157:3912/172978 </address>
+
+</item>
+
+
+-<item id="012">
+
+<name>PRIMA TV </name>
+
+<address>sop://broker.sopcast.com:3912/148086 </address>
+
+</item>
+
+
+-<item id="013">
+
+<name>TVR 1 </name>
+
+<address>sop://broker.sopcast.com:3912/148085 </address>
+
+</item>
+
+
+-<item id="014">
+
+<name>TELEKOM 1 sursa 1 [sep19] </name>
+
+<address>sop://185.122.59.8:3912/265421 </address>
+
+</item>
+
+
+-<item id="015">
+
+<name>TELEKOM 1 sursa 2 </name>
+
+<address>sop://broker.sopcast.com:3912/256030 </address>
+
+</item>
+
+
+-<item id="016">
+
+<name>TELEKOM 2 sursa 1 </name>
+
+<address>sop://51.15.38.157:3912/257164 </address>
+
+</item>
+
+
+-<item id="017">
+
+<name>TELEKOM 2 sursa 2 </name>
+
+<address>sop://broker.sopcast.com:3912/257164 </address>
+
+</item>
+
+
+-<item id="018">
+
+<name>DIGISPORT 1 sursa 1 </name>
+
+<address>sop://51.15.38.157:3912/263484 </address>
+
+</item>
+
+
+-<item id="019">
+
+<name>DIGISPORT 1 sursa 2 </name>
+
+<address>sop://broker.sopcast.com:3912/148886 </address>
+
+</item>
+
+
+-<item id="020">
+
+<name>Protv X </name>
+
+<address>sop://broker.sopcast.com:3912/178547 </address>
+
+</item>
+
+
+-<item id="021">
+
+<name>LookSport [sep19] </name>
+
+<address>sop://185.122.59.8:3912/265045 </address>
+
+</item>
+
+
+-<item id="022">
+
+<name>KANAL D </name>
+
+<address>sop://151.80.76.190:3912/256720 </address>
+
+</item>
+
+
+-<item id="023">
+
+<name>TV 1000 </name>
+
+<address>sop://broker.sopcast.com:3912/256337 </address>
+
+</item>
+
+
+-<item id="024">
+
+<name>FILM CAFE </name>
+
+<address>sop://broker.sopcast.com:3912/256238 </address>
+
+</item>
+
+
+-<item id="025">
+
+<name>AXN </name>
+
+<address>sop://broker.sopcast.com:3912/253035 </address>
+
+</item>
+
+
+-<item id="026">
+
+<name>NATIONAL TV </name>
+
+<address>sop://broker.sopcast.com:3912/253030 </address>
+
+</item>
+
+
+-<item id="027">
+
+<name>ANTENA 3 </name>
+
+<address>sop://broker.sopcast.com:3912/148084 </address>
+
+</item>
+
+
+-<item id="028">
+
+<name>AXN BLACK </name>
+
+<address>sop://broker.sopcast.com:3912/149261 </address>
+
+</item>
+
+
+-<item id="029">
+
+<name>AXN SPIN </name>
+
+<address>sop://broker.sopcast.com:3912/149263 </address>
+
+</item>
+
+
+-<item id="030">
+
+<name>TCM </name>
+
+<address>sop://broker.sopcast.com:3912/256335 </address>
+
+</item>
+
+
+-<item id="031">
+
+<name>UNIVERSAL CHANNEL </name>
+
+<address>sop://broker.sopcast.com:3912/253033 </address>
+
+</item>
+
+
+-<item id="032">
+
+<name>DISCOVERY CHANNEL </name>
+
+<address>sop://broker.sopcast.com:3912/256241 </address>
+
+</item>
+
+
+-<item id="033">
+
+<name>HISTORY CHANNEL </name>
+
+<address>sop://broker.sopcast.com:3912/253032 </address>
+
+</item>
+
+
+-<item id="034">
+
+<name>B1 TV </name>
+
+<address>sop://broker.sopcast.com:3912/148087 </address>
+
+</item>
+
+
+-<item id="035">
+
+<name>DIGISPORT 3 </name>
+
+<address>sop://51.15.38.157:3912/263483 </address>
+
+</item>
+
+
+-<item id="036">
+
+<name>ETNO TV </name>
+
+<address>sop://broker.sopcast.com:3912/173116 </address>
+
+</item>
+
+
+-<item id="037">
+
+<name>KISSTV </name>
+
+<address>sop://178.239.62.116:3912/263766 </address>
+
+</item>
+
+
+-<item id="038">
+
+<name>CARTOON NETWORK </name>
+
+<address>sop://broker.sopcast.com:3912/148254 </address>
+
+</item>
+
+
+-<item id="039">
+
+<name>DISNEY CHANNEL </name>
+
+<address>sop://broker.sopcast.com:3912/253031 </address>
+
+</item>
+
+
+-<item id="040">
+
+<name>DISNEY JUNIOR </name>
+
+<address>sop://broker.sopcast.com:3912/256239 </address>
+
+</item>
+
+
+-<item id="041">
+
+<name>NICKELODEON </name>
+
+<address>sop://broker.sopcast.com:3912/253472 </address>
+
+</item>
+
+
+-<item id="042">
+
+<name>NICK Junior </name>
+
+<address>sop://broker.sopcast.com:3912/149266 </address>
+
+</item>
+
+
+-<item id="043">
+
+<name>MINIMAX </name>
+
+<address>sop://broker.sopcast.com:3912/148263 </address>
+
+</item>
+
+
+-<item id="044">
+
+<name>PRO2 </name>
+
+<address>sop://broker.sopcast.com:3912/149256 </address>
+
+</item>
+
+
+-<item id="045">
+
+<name>BOLLYWOOD TV </name>
+
+<address>sop://broker.sopcast.com:3912/148884 </address>
+
+</item>
+
+
+-<item id="046">
+
+<name>HAPPY TV </name>
+
+<address>sop://broker.sopcast.com:3912/253473 </address>
+
+</item>
+
+
+-<item id="047">
+
+<name>DIGISPORT 2 </name>
+
+<address>sop://51.15.38.157:3912/151344 </address>
+
+</item>
+
+
+-<item id="048">
+
+<name>EUROSPORT </name>
+
+<address>sop://51.15.38.157:3912/263056 </address>
+
+</item>
+
+
+-<item id="049">
+
+<name>DISCOVERY ID </name>
+
+<address>sop://broker.sopcast.com:3912/256244 </address>
+
+</item>
+
+
+-<item id="050">
+
+<name>DISCOVERY SCIENCE </name>
+
+<address>sop://broker.sopcast.com:3912/256243 </address>
+
+</item>
+
+
+-<item id="051">
+
+<name>NATIONAL GEOGRAPHIC </name>
+
+<address>sop://broker.sopcast.com:3912/148248 </address>
+
+</item>
+
+
+-<item id="052">
+
+<name>VIASAT HISTORY </name>
+
+<address>sop://broker.sopcast.com:3912/151300 </address>
+
+</item>
+
+
+-<item id="053">
+
+<name>DISCOVERY WORLD </name>
+
+<address>sop://broker.sopcast.com:3912/256242 </address>
+
+</item>
+
+
+-<item id="054">
+
+<name>ROMANIA TV </name>
+
+<address>sop://broker.sopcast.com:3912/148258 </address>
+
+</item>
+
+
+-<item id="055">
+
+<name>TVR2 </name>
+
+<address>sop://broker.sopcast.com:3912/173286 </address>
+
+</item>
+
+
+-<item id="056">
+
+<name>TVR HD </name>
+
+<address>sop://broker.sopcast.com:3912/253762 </address>
+
+</item>
+
+
+-<item id="057">
+
+<name>ZU TV </name>
+
+<address>sop://broker.sopcast.com:3912/148252 </address>
+
+</item>
+
+
+-<item id="058">
+
+<name>Protv calitate 2 </name>
+
+<address>sop://185.224.90.82:3912/264940 </address>
+
+</item>
+
+
+-<item id="059">
+
+<name>Protv calitate 3 </name>
+
+<address>sop://broker.sopcast.com:3912/263344 </address>
+
+</item>
+
+
+-<item id="060">
+
+<name>PROTV calitate vechi </name>
+
+<address>sop://185.122.59.8:3912/265390 </address>
+
+</item>
+
+
+-<item id="061">
+
+<name>Protv calitate 4 </name>
+
+<address>sop://185.122.59.8:3912/265385 </address>
+
+</item>
+
+
+-<item id="062">
+
+<name>Protv calitate 5 </name>
+
+<address>sop://185.122.59.8:3912/265400 </address>
+
+</item>
+
+
+-<item id="063">
+
+<name>HBO 1 sursa 2 [sep19] </name>
+
+<address>sop://185.122.59.8:3912/259497 </address>
+
+</item>
+
+
+-<item id="064">
+
+<name>TNT Filme [sep19] </name>
+
+<address>sop://185.122.59.8:3912/264992 </address>
+
+</item>
+
+
+-<item id="065">
+
+<name>AMC Filme [sep19] </name>
+
+<address>sop://185.122.59.8:3912/264990 </address>
+
+</item>
+
+
+-<item id="066">
+
+<name>Looksport 2 [sep19] </name>
+
+<address>sop://185.122.59.8:3912/265386 </address>
+
+</item>
+
+</favorite>
