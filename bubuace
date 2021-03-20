@@ -65,6 +65,19 @@ http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&
 http://127.0.0.1:6878/ace/getstream?id=078ff574a6ab59e9793563641c00086961bcfd00&hlc=1&spv=0
 #EXTINF:-1,HBO
 http://127.0.0.1:6878/ace/getstream?id=c6e7b0a6409e4714813a8f0221d06f3be73192c6&hlc=1&spv=0
+#EXTINF:-1,HBO2
+http://127.0.0.1:6878/ace/getstream?id=57b11fe46aeda24bffb3b148a8609c54340625f1&hlc=1&spv=0
+#EXTINF:-1,HBO3
+http://127.0.0.1:6878/ace/getstream?id=0bf1bea4b5e6cd116ee907020c7e7ae76c53abb7&hlc=1&spv=0
+#EXTINF:-1,Cinemax
+http://127.0.0.1:6878/ace/getstream?id=c6cb8f94b2037b79a74e86fe83889a1b534a6dc6&hlc=1&spv=0
+#EXTINF:-1,Cinemax2
+http://127.0.0.1:6878/ace/getstream?id=bbfaee211b3c7e45e20afa6d452f75155430bf62&hlc=1&spv=0
+#EXTINF:-1,TNT
+http://127.0.0.1:6878/ace/getstream?id=ee65e0d5d982042632fa63c48b4b0de0b05300fa&hlc=1&spv=0
+
+
+
 
 
 
