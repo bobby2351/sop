@@ -39,8 +39,10 @@ http://127.0.0.1:6878/ace/getstream?id=5d1f5dde9ccaa4515f2d6974fb5edf6b015365d7&
 http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&hlc=1&spv=0
 #EXTINF:-1,Kisstv
 http://127.0.0.1:6878/ace/getstream?id=d44b75a40fecb698c95cd12cfac02fcdd300399c&hlc=1&spv=0
+#EXTINF:-1,Favorit
+http://127.0.0.1:6878/ace/getstream?id=34eca2673aee89cb0950117fbb70f978d66a7fbc&hlc=1&spv=0
 #EXTINF:-1,TelekomSport1
-http://127.0.0.1:6878/ace/getstream?id=1e29d6498b417e9c360a5d6cead322a9aef084f1&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=2ad6b7bc3b7fdbed6f69e8acfca69435ad36d7d5&hlc=1&spv=0
 #EXTINF:-1,Telekomsport2
 http://127.0.0.1:6878/ace/getstream?id=e43e99d8ad27cf997c139a2fe2aa9fe91f91fda6&hlc=1&spv=0
 #EXTINF:-1,Telekomsport3
@@ -59,6 +61,10 @@ http://127.0.0.1:6878/ace/getstream?id=45409eac3b43e28337ba139a5850a60205af6bd5&
 http://127.0.0.1:6878/ace/getstream?id=0783887fed66fbeccbdabaf94720df4ffc2d047e&hlc=1&spv=0
 #EXTINF:-1,Eurosport1
 http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&hlc=1&spv=0
+#EXTINF:-1,Eurosport2
+http://127.0.0.1:6878/ace/getstream?id=078ff574a6ab59e9793563641c00086961bcfd00&hlc=1&spv=0
+#EXTINF:-1,HBO
+http://127.0.0.1:6878/ace/getstream?id=c6e7b0a6409e4714813a8f0221d06f3be73192c6&hlc=1&spv=0
 
 
 
