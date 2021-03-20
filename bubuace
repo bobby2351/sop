@@ -41,6 +41,17 @@ http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&
 http://127.0.0.1:6878/ace/getstream?id=d44b75a40fecb698c95cd12cfac02fcdd300399c&hlc=1&spv=0
 #EXTINF:-1,TelekomSport1
 http://127.0.0.1:6878/ace/getstream?id=1e29d6498b417e9c360a5d6cead322a9aef084f1&hlc=1&spv=0
+#EXTINF:-1,Telekomsport2
+http://127.0.0.1:6878/ace/getstream?id=e43e99d8ad27cf997c139a2fe2aa9fe91f91fda6&hlc=1&spv=0
+#EXTINF:-1,Telekomsport3
+http://127.0.0.1:6878/ace/getstream?id=3b72c466c2ff7408755a7d6591886a0ee52df445&hlc=1&spv=0
+#EXTINF:-1,Digisport
+http://127.0.0.1:6878/ace/getstream?id=4a4294c72188e91e24b8dd9f49246ba8c9307170&hlc=1&spv=0
+#EXTINF:-1,Digisport 2
+http://127.0.0.1:6878/ace/getstream?id=144909db8d0119e42e0b89810de615e2ad425ebe&hlc=1&spv=0
+
+
+
 
 
 
