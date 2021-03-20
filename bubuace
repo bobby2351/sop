@@ -37,8 +37,8 @@ http://127.0.0.1:6878/ace/getstream?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4&
 http://127.0.0.1:6878/ace/getstream?id=5d1f5dde9ccaa4515f2d6974fb5edf6b015365d7&hlc=1&spv=0
 #EXTINF:-1,Zutv
 http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&hlc=1&spv=0
-#EXTINF:-1,Kisstv
-http://127.0.0.1:6878/ace/getstream?id=d44b75a40fecb698c95cd12cfac02fcdd300399c&hlc=1&spv=0
+#EXTINF:-1,Etno
+http://127.0.0.1:6878/ace/getstream?id=00b72cdfa7d2fffa383e0a01807a813fdbf3b84e&hlc=1&spv=0
 #EXTINF:-1,Favorit
 http://127.0.0.1:6878/ace/getstream?id=34eca2673aee89cb0950117fbb70f978d66a7fbc&hlc=1&spv=0
 #EXTINF:-1,TelekomSport1
