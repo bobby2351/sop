@@ -36,11 +36,11 @@ http://127.0.0.1:6878/ace/getstream?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4&
 #EXTINF:-1,B1tv
 http://127.0.0.1:6878/ace/getstream?id=5d1f5dde9ccaa4515f2d6974fb5edf6b015365d7&hlc=1&spv=0
 #EXTINF:-1,Zutv
-http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=e02c49f4380617bd083d47e85ccf138e84d3c90c&hlc=1&spv=0
 #EXTINF:-1,Etno
 http://127.0.0.1:6878/ace/getstream?id=00b72cdfa7d2fffa383e0a01807a813fdbf3b84e&hlc=1&spv=0
 #EXTINF:-1,Favorit
-http://127.0.0.1:6878/ace/getstream?id=34eca2673aee89cb0950117fbb70f978d66a7fbc&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=51d43d91ba43940920b86f0de58425effce27e14&hlc=1&spv=0
 #EXTINF:-1,TelekomSport1
 http://127.0.0.1:6878/ace/getstream?id=2ad6b7bc3b7fdbed6f69e8acfca69435ad36d7d5&hlc=1&spv=0
 #EXTINF:-1,Telekomsport2
@@ -75,6 +75,13 @@ http://127.0.0.1:6878/ace/getstream?id=c6cb8f94b2037b79a74e86fe83889a1b534a6dc6&
 http://127.0.0.1:6878/ace/getstream?id=bbfaee211b3c7e45e20afa6d452f75155430bf62&hlc=1&spv=0
 #EXTINF:-1,TNT
 http://127.0.0.1:6878/ace/getstream?id=ee65e0d5d982042632fa63c48b4b0de0b05300fa&hlc=1&spv=0
+#EXTINF:-1,TV1000
+http://127.0.0.1:6878/ace/getstream?id=fce853b5e89addc90a545c9aefd29e6b2da432ef&hlc=1&spv=0
+#EXTINF:-1,AMC
+http://127.0.0.1:6878/ace/getstream?id=15776f482a563c32085d6cc8d969d1664f3844ec&hlc=1&spv=0
+#EXTINF:-1,FilmCafe
+http://127.0.0.1:6878/ace/getstream?id=dd85b2520489e7a7b9959b8c9f471f5fde379372&hlc=1&spv=0
+
 
 
 
