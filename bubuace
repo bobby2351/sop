@@ -81,6 +81,23 @@ http://127.0.0.1:6878/ace/getstream?id=fce853b5e89addc90a545c9aefd29e6b2da432ef&
 http://127.0.0.1:6878/ace/getstream?id=15776f482a563c32085d6cc8d969d1664f3844ec&hlc=1&spv=0
 #EXTINF:-1,FilmCafe
 http://127.0.0.1:6878/ace/getstream?id=dd85b2520489e7a7b9959b8c9f471f5fde379372&hlc=1&spv=0
+#EXTINF:-1,Paramount
+http://127.0.0.1:6878/ace/getstream?id=7e1b95e3ddabb8e63a705a1d01fdf437c2e4b62d&hlc=1&spv=0
+#EXTINF:-1,FilmNow
+http://127.0.0.1:6878/ace/getstream?id=3a6a685ae05473c3dc273ba46222740b59fbcca5&hlc=1&spv=0
+#EXTINF:-1,Filmbox
+http://127.0.0.1:6878/ace/getstream?id=9a2d005de125a3a3ebfb0142641bf82f45f0c2ed&hlc=1&spv=0
+#EXTINF:-1,Filmboxfamily
+http://127.0.0.1:6878/ace/getstream?id=ad79483ef539eb15d9bcca880ee3fb960df97698&hlc=1&spv=0
+#EXTINF:-1,Diva
+http://127.0.0.1:6878/ace/getstream?id=0995b1cb102e6eb0316a881f2c84d7849ff5bf91&hlc=1&spv=0
+#EXTINF:-1,Procinema
+http://127.0.0.1:6878/ace/getstream?id=c8bd97bf739a643c36de38b58cfb98b8d14f80cb&hlc=1&spv=0
+#EXTINF:-1,AXN
+http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&hlc=1&spv=0
+
+
+
 
 
 
