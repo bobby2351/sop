@@ -17,7 +17,7 @@ http://127.0.0.1:6878/ace/getstream?id=a412feeb0ea10bab06647eb7140816a8fbf33248&
 http://127.0.0.1:6878/ace/getstream?id=ecf02565cb70dd22fff99fc8bc33b0812e792092&hlc=1&spv=0
 #EXTINF:-1,Primatv Sursa2
 http://127.0.0.1:6878/ace/getstream?id=b154ce379461f458c456813bc7693ae434f1b1eb&hlc=1&spv=0
-#EXTINF:-1,TVR1 Sursa1
+#EXTINF:-1,TVR1 
 http://127.0.0.1:6878/ace/getstream?id=14da2edd63255fd4499a691d551893fb397ae794&hlc=1&spv=0
 #EXTINF:-1,TVR2
 http://127.0.0.1:6878/ace/getstream?id=32c3ed477846ef367d67a35c8f5f67480916d399&hlc=1&spv=0
@@ -49,6 +49,22 @@ http://127.0.0.1:6878/ace/getstream?id=3b72c466c2ff7408755a7d6591886a0ee52df445&
 http://127.0.0.1:6878/ace/getstream?id=4a4294c72188e91e24b8dd9f49246ba8c9307170&hlc=1&spv=0
 #EXTINF:-1,Digisport 2
 http://127.0.0.1:6878/ace/getstream?id=144909db8d0119e42e0b89810de615e2ad425ebe&hlc=1&spv=0
+#EXTINF:-1,Digisport 3
+http://127.0.0.1:6878/ace/getstream?id=0bac0856c07455419494558b5f2caa59a4a388a3&hlc=1&spv=0
+#EXTINF:-1,Looksport
+http://127.0.0.1:6878/ace/getstream?id=e31972979fadcf284bf08ad8a6cab2ef31c4e775&hlc=1&spv=0
+#EXTINF:-1,Looksport plus
+http://127.0.0.1:6878/ace/getstream?id=45409eac3b43e28337ba139a5850a60205af6bd5&hlc=1&spv=0
+#EXTINF:-1,ProX
+http://127.0.0.1:6878/ace/getstream?id=0783887fed66fbeccbdabaf94720df4ffc2d047e&hlc=1&spv=0
+#EXTINF:-1,Eurosport1
+http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&hlc=1&spv=0
+
+
+
+
+
+
 
 
 
