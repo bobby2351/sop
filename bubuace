@@ -5,7 +5,7 @@ http://127.0.0.1:6878/ace/getstream?id=8c4b43dc274d54d061dce23f31f3d1063aaddb2b&
 http://127.0.0.1:6878/ace/getstream?id=f168cebe3acc12fb208f7950c3157045352c9109&hlc=1&spv=0
 #EXTINF:-1,Antena_1 Sursa3
 http://127.0.0.1:6878/ace/getstream?id=72558118f26554af64bb302a5435b92d66e13a59&hlc=1&spv=0
-#EXTINF:0,PROTV Sursa1
+#EXTINF:-1,PROTV Sursa1
 http://127.0.0.1:6878/ace/getstream?id=4c2fe8a2aacee15252a8b582f283762e21a5404b&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa2
 http://127.0.0.1:6878/ace/getstream?id=89f483d0ce8b51528764f436a9b4669414ead49f&hlc=1&spv=0
@@ -13,11 +13,34 @@ http://127.0.0.1:6878/ace/getstream?id=89f483d0ce8b51528764f436a9b4669414ead49f&
 http://127.0.0.1:6878/ace/getstream?id=5b37fc3833ff8874feccc15a8476175f2a9dd22e&hlc=1&spv=0
 #EXTINF:-1,KanalD Sursa2
 http://127.0.0.1:6878/ace/getstream?id=a412feeb0ea10bab06647eb7140816a8fbf33248&hlc=1&spv=0
-#EXTINF:-1,TVR1 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=14da2edd63255fd4499a691d551893fb397ae794&hlc=1&spv=0
-#EXTINF:-1,TVR1 Sursa2
-http://127.0.0.1:6878/ace/getstream?id=bf85398aadf33ab424ba97430cb172cabe7c8ca2&hlc=1&spv=0
 #EXTINF:-1,Primatv Sursa1
 http://127.0.0.1:6878/ace/getstream?id=ecf02565cb70dd22fff99fc8bc33b0812e792092&hlc=1&spv=0
 #EXTINF:-1,Primatv Sursa2
 http://127.0.0.1:6878/ace/getstream?id=b154ce379461f458c456813bc7693ae434f1b1eb&hlc=1&spv=0
+#EXTINF:-1,TVR1 Sursa1
+http://127.0.0.1:6878/ace/getstream?id=14da2edd63255fd4499a691d551893fb397ae794&hlc=1&spv=0
+#EXTINF:-1,TVR2
+http://127.0.0.1:6878/ace/getstream?id=32c3ed477846ef367d67a35c8f5f67480916d399&hlc=1&spv=0
+#EXTINF:-1,National Tv
+http://127.0.0.1:6878/ace/getstream?id=2d4bfb7bf08107cf6bfe614588524e056aa84f71&hlc=1&spv=0
+#EXTINF:-1,Antena Stars
+http://127.0.0.1:6878/ace/getstream?id=3db6b51091dae7a21f02347f8a69e0954e286521&hlc=1&spv=0
+#EXTINF:-1,Romaniatv
+http://127.0.0.1:6878/ace/getstream?id=42025c6dba26a7637f742d3443151f944ff0131e&hlc=1&spv=0
+#EXTINF:-1,Digi24 Sursa1
+http://127.0.0.1:6878/ace/getstream?id=635a673f11a9d90f9b83f7305c050df35bf1386a&hlc=1&spv=0
+#EXTINF:-1,Digi24 Sursa2
+http://127.0.0.1:6878/ace/getstream?id=4f6a7e5274cff5067a519b28a877682dc3e6bdb7&hlc=1&spv=0
+#EXTINF:-1,Antena3
+http://127.0.0.1:6878/ace/getstream?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4&hlc=1&spv=0
+#EXTINF:-1,B1tv
+http://127.0.0.1:6878/ace/getstream?id=5d1f5dde9ccaa4515f2d6974fb5edf6b015365d7&hlc=1&spv=0
+#EXTINF:-1,Zutv
+http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&hlc=1&spv=0
+
+
+
+
+
+
+
