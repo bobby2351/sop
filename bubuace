@@ -95,6 +95,13 @@ http://127.0.0.1:6878/ace/getstream?id=0995b1cb102e6eb0316a881f2c84d7849ff5bf91&
 http://127.0.0.1:6878/ace/getstream?id=c8bd97bf739a643c36de38b58cfb98b8d14f80cb&hlc=1&spv=0
 #EXTINF:-1,AXN
 http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&hlc=1&spv=0
+#EXTINF:-1,ComedyCentral
+http://127.0.0.1:6878/ace/getstream?id=a2002a6c5658661533096684bd9f3e3bbc37986d&hlc=1&spv=0
+#EXTINF:-1,Discovery
+http://127.0.0.1:6878/ace/getstream?id=add6f7a4d0c591d20ccff5475880bf1c316c1a01&hlc=1&spv=0
+#EXTINF:-1,History
+http://127.0.0.1:6878/ace/getstream?id=3436106579d1b0a585a05cb3f3b99f1d5230cf8d&hlc=1&spv=0
+
 
 
 
