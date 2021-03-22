@@ -65,10 +65,24 @@ http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&
 http://127.0.0.1:6878/ace/getstream?id=078ff574a6ab59e9793563641c00086961bcfd00&hlc=1&spv=0
 #EXTINF:-1,HBO
 http://127.0.0.1:6878/ace/getstream?id=c6e7b0a6409e4714813a8f0221d06f3be73192c6&hlc=1&spv=0
-#EXTINF:-1,HBO2
+#EXTINF:-1,HBO Sursa2
+http://127.0.0.1:6878/ace/getstream?id=6ea2acc394773e8b8e97a1086a69e34f80c3b6d2&hlc=1&spv=0
+#EXTINF:-1,HBO Sursa3
+http://127.0.0.1:6878/ace/getstream?id=6151207e91d6a8ba0780bd9386c26222a02f19f0&hlc=1&spv=0
+#EXTINF:-1,HBO Sursa4
+http://127.0.0.1:6878/ace/getstream?id=4c815d9a51fcc108aaf014f60fa6bb9cd7d70266&hlc=1&spv=0
+#EXTINF:-1,HBO2 Sursa1
 http://127.0.0.1:6878/ace/getstream?id=57b11fe46aeda24bffb3b148a8609c54340625f1&hlc=1&spv=0
-#EXTINF:-1,HBO3
+#EXTINF:-1,HBO2 Sursa2
+http://127.0.0.1:6878/ace/getstream?id=58fd5c0a9dad3f1c5c7bde0bb1eae387a4bb1aa9&hlc=1&spv=0
+#EXTINF:-1,HBO2 Sursa3
+http://127.0.0.1:6878/ace/getstream?id=106454cf982c3a8924758f8e912d2bb61af00f83&hlc=1&spv=0
+#EXTINF:-1,HBO3 Sursa1
 http://127.0.0.1:6878/ace/getstream?id=0bf1bea4b5e6cd116ee907020c7e7ae76c53abb7&hlc=1&spv=0
+#EXTINF:-1,HBO3 Sursa2
+http://127.0.0.1:6878/ace/getstream?id=f9544ef9e50370fa3c4a0a91c1957be9159e188c&hlc=1&spv=0
+#EXTINF:-1,HBO3 Sursa3
+http://127.0.0.1:6878/ace/getstream?id=f09d8468ec4b5cab32fbac5c2c88d4cd3b2fac2c&hlc=1&spv=0
 #EXTINF:-1,Cinemax
 http://127.0.0.1:6878/ace/getstream?id=c6cb8f94b2037b79a74e86fe83889a1b534a6dc6&hlc=1&spv=0
 #EXTINF:-1,Cinemax2
