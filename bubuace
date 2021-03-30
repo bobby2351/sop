@@ -6,8 +6,12 @@ http://127.0.0.1:6878/ace/getstream?id=f168cebe3acc12fb208f7950c3157045352c9109&
 #EXTINF:-1,Antena_1 Sursa3
 http://127.0.0.1:6878/ace/getstream?id=72558118f26554af64bb302a5435b92d66e13a59&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa1
-http://127.0.0.1:6878/ace/getstream?id=4c2fe8a2aacee15252a8b582f283762e21a5404b&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=b7d30c7fabda7d34801fe6f7d4513f7c9674a1fe&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa2
+http://127.0.0.1:6878/ace/getstream?id=a8ecb0dff7e3889b50401979bbad52fca3576b37&hlc=1&spv=0
+#EXTINF:-1,PROTV Sursa3
+http://127.0.0.1:6878/ace/getstream?id=a09ee2af4c9a2ecf29533762cb4d62619a4e830d&hlc=1&spv=0
+#EXTINF:-1,PROTV Sursa4
 http://127.0.0.1:6878/ace/getstream?id=89f483d0ce8b51528764f436a9b4669414ead49f&hlc=1&spv=0
 #EXTINF:-1,KanalD Sursa1
 http://127.0.0.1:6878/ace/getstream?id=5b37fc3833ff8874feccc15a8476175f2a9dd22e&hlc=1&spv=0
@@ -36,11 +40,17 @@ http://127.0.0.1:6878/ace/getstream?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4&
 #EXTINF:-1,B1tv
 http://127.0.0.1:6878/ace/getstream?id=5d1f5dde9ccaa4515f2d6974fb5edf6b015365d7&hlc=1&spv=0
 #EXTINF:-1,Zutv
+http://127.0.0.1:6878/ace/getstream?id=22b735b20d6904f7b691e8e4cb3939d59237343f&hlc=1&spv=0
+#EXTINF:-1,Zutv Sursa2
 http://127.0.0.1:6878/ace/getstream?id=e02c49f4380617bd083d47e85ccf138e84d3c90c&hlc=1&spv=0
 #EXTINF:-1,Etno
 http://127.0.0.1:6878/ace/getstream?id=00b72cdfa7d2fffa383e0a01807a813fdbf3b84e&hlc=1&spv=0
 #EXTINF:-1,Favorit
 http://127.0.0.1:6878/ace/getstream?id=51d43d91ba43940920b86f0de58425effce27e14&hlc=1&spv=0
+#EXTINF:-1,Kisstv
+http://127.0.0.1:6878/ace/getstream?id=c339715927196b4c7e5e52588d29fdb46f693783&hlc=1&spv=0
+#EXTINF:-1,Utv
+http://127.0.0.1:6878/ace/getstream?id=0e57e970916ba23ae5abcd428330e8e69e5e849f&hlc=1&spv=0
 #EXTINF:-1,TelekomSport1
 http://127.0.0.1:6878/ace/getstream?id=2ad6b7bc3b7fdbed6f69e8acfca69435ad36d7d5&hlc=1&spv=0
 #EXTINF:-1,Telekomsport2
