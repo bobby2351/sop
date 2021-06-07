@@ -68,7 +68,7 @@ http://127.0.0.1:6878/ace/getstream?id=e31972979fadcf284bf08ad8a6cab2ef31c4e775&
 #EXTINF:-1,Looksport plus
 http://127.0.0.1:6878/ace/getstream?id=45409eac3b43e28337ba139a5850a60205af6bd5&hlc=1&spv=0
 #EXTINF:-1,ProX
-http://127.0.0.1:6878/ace/getstream?id=0783887fed66fbeccbdabaf94720df4ffc2d047e&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=db0b81bdbfb2cd44ce92adff9192a5c97510989d&hlc=1&spv=0
 #EXTINF:-1,Eurosport1
 http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&hlc=1&spv=0
 #EXTINF:-1,Eurosport2
