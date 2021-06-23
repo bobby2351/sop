@@ -6,7 +6,7 @@ http://127.0.0.1:6878/ace/getstream?id=f168cebe3acc12fb208f7950c3157045352c9109&
 #EXTINF:-1,Antena_1 Sursa3
 http://127.0.0.1:6878/ace/getstream?id=72558118f26554af64bb302a5435b92d66e13a59&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa1
-http://127.0.0.1:6878/ace/getstream?id=b7d30c7fabda7d34801fe6f7d4513f7c9674a1fe&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=83a5d7cd8623ad0e0ca76fb0330eb148901321da&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa2
 http://127.0.0.1:6878/ace/getstream?id=a8ecb0dff7e3889b50401979bbad52fca3576b37&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa3
