@@ -2,13 +2,13 @@
 #EXTINF:-1,Antena_1 Sursa1
 http://127.0.0.1:6878/ace/getstream?id=c8f1bb4400cd1abeb461ff52d39ec5f4025db67f&hlc=1&spv=0
 #EXTINF:-1,Antena_1 Sursa2
-http://127.0.0.1:6878/ace/getstream?id=f168cebe3acc12fb208f7950c3157045352c9109&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=8e61f251d2b54c6d5259c4be802bde0d11f112fe&hlc=1&spv=0
 #EXTINF:-1,Antena_1 Sursa3
 http://127.0.0.1:6878/ace/getstream?id=72558118f26554af64bb302a5435b92d66e13a59&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa1
 http://127.0.0.1:6878/ace/getstream?id=83a5d7cd8623ad0e0ca76fb0330eb148901321da&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa2
-http://127.0.0.1:6878/ace/getstream?id=a8ecb0dff7e3889b50401979bbad52fca3576b37&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=b9b52cdb3bf2ee5724a15cdc23b8a4b3499d8b2c&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa3
 http://127.0.0.1:6878/ace/getstream?id=a09ee2af4c9a2ecf29533762cb4d62619a4e830d&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa4
