@@ -74,7 +74,7 @@ http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&
 #EXTINF:-1,Eurosport2
 http://127.0.0.1:6878/ace/getstream?id=078ff574a6ab59e9793563641c00086961bcfd00&hlc=1&spv=0
 #EXTINF:-1,HBO
-http://127.0.0.1:6878/ace/getstream?id=075a28970996bc14d5e08f6a312e9fed61265ca2&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=6c27e1d4d994a1232c4c339551845af793a184d3&hlc=1&spv=0
 #EXTINF:-1,HBO Sursa2
 http://127.0.0.1:6878/ace/getstream?id=6ea2acc394773e8b8e97a1086a69e34f80c3b6d2&hlc=1&spv=0
 #EXTINF:-1,HBO Sursa3
@@ -82,13 +82,13 @@ http://127.0.0.1:6878/ace/getstream?id=6151207e91d6a8ba0780bd9386c26222a02f19f0&
 #EXTINF:-1,HBO Sursa4
 http://127.0.0.1:6878/ace/getstream?id=4c815d9a51fcc108aaf014f60fa6bb9cd7d70266&hlc=1&spv=0
 #EXTINF:-1,HBO2 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=57b11fe46aeda24bffb3b148a8609c54340625f1&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=05b48e91043e46677631ffd70b76268f044359f1&hlc=1&spv=0
 #EXTINF:-1,HBO2 Sursa2
 http://127.0.0.1:6878/ace/getstream?id=58fd5c0a9dad3f1c5c7bde0bb1eae387a4bb1aa9&hlc=1&spv=0
 #EXTINF:-1,HBO2 Sursa3
 http://127.0.0.1:6878/ace/getstream?id=106454cf982c3a8924758f8e912d2bb61af00f83&hlc=1&spv=0
 #EXTINF:-1,HBO3 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=0bf1bea4b5e6cd116ee907020c7e7ae76c53abb7&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=f9544ef9e50370fa3c4a0a91c1957be9159e188c&hlc=1&spv=0
 #EXTINF:-1,HBO3 Sursa2
 http://127.0.0.1:6878/ace/getstream?id=f9544ef9e50370fa3c4a0a91c1957be9159e188c&hlc=1&spv=0
 #EXTINF:-1,HBO3 Sursa3
@@ -122,7 +122,7 @@ http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&
 #EXTINF:-1,ComedyCentral
 http://127.0.0.1:6878/ace/getstream?id=a2002a6c5658661533096684bd9f3e3bbc37986d&hlc=1&spv=0
 #EXTINF:-1,Discovery
-http://127.0.0.1:6878/ace/getstream?id=add6f7a4d0c591d20ccff5475880bf1c316c1a01&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=624a570584e86f41d63c8411e5c4870a5ed76a56&hlc=1&spv=0
 #EXTINF:-1,History
 http://127.0.0.1:6878/ace/getstream?id=3436106579d1b0a585a05cb3f3b99f1d5230cf8d&hlc=1&spv=0
 
