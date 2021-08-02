@@ -101,6 +101,8 @@ http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&
 http://127.0.0.1:6878/ace/getstream?id=7e30921d56d2dda65b71ab096ca49a7b45dc0aa4&hlc=1&spv=0
 #EXTINF:-1,Discovery
 http://127.0.0.1:6878/ace/getstream?id=624a570584e86f41d63c8411e5c4870a5ed76a56&hlc=1&spv=0
+#EXTINF:-1,Viasat Explorer
+http://127.0.0.1:6878/ace/getstream?id=78224fc4fd963088244cdb84de55df89478b477a&hlc=1&spv=0
 #EXTINF:-1,Animal planet
 http://127.0.0.1:6878/ace/getstream?id=9f066a7370d5c8233af7851641e1d14008197899&hlc=1&spv=0
 #EXTINF:-1,National Geographic
@@ -109,10 +111,14 @@ http://127.0.0.1:6878/ace/getstream?id=4133acbd161d81bd25b14dc588f1e4e05a773db7&
 http://127.0.0.1:6878/ace/getstream?id=3436106579d1b0a585a05cb3f3b99f1d5230cf8d&hlc=1&spv=0
 #EXTINF:-1,Happy channel
 http://127.0.0.1:6878/ace/getstream?id=5ef1f2a29abdf2e4db434ba4baabd8951c6b38e7&hlc=1&spv=0
+#EXTINF:-1,Paprika tv
+http://127.0.0.1:6878/ace/getstream?id=54e9427b2d50a273ad886f022b057da243bab1a2&hlc=1&spv=0
 #EXTINF:-1,Disney channel
 http://127.0.0.1:6878/ace/getstream?id=258116c0e01f8365d6614d1356f00bd381263b28&hlc=1&spv=0
 #EXTINF:-1,Cartoon network
 http://127.0.0.1:6878/ace/getstream?id=0fe69d38a42207b676ba0fcba0f7667e4df861ca&hlc=1&spv=0
+#EXTINF:-1,Boomerang
+http://127.0.0.1:6878/ace/getstream?id=ac3bf76c92f136e326de9998c75edebe5187100b&hlc=1&spv=0
 #EXTINF:-1,Nickelodeon
 http://127.0.0.1:6878/ace/getstream?id=bc0b1cce5af9700694c595e364d248f23e45d133&hlc=1&spv=0
 
