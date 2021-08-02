@@ -64,9 +64,9 @@ http://127.0.0.1:6878/ace/getstream?id=45409eac3b43e28337ba139a5850a60205af6bd5&
 #EXTINF:-1,ProX
 http://127.0.0.1:6878/ace/getstream?id=db0b81bdbfb2cd44ce92adff9192a5c97510989d&hlc=1&spv=0
 #EXTINF:-1,Eurosport1
-http://127.0.0.1:6878/ace/getstream?id=801e94312213d8089c2335a4ef10187bf12ac0e6&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=a6fb4aca2ab858cb0546f55b17865e3ea50ed1fb&hlc=1&spv=0
 #EXTINF:-1,Eurosport2
-http://127.0.0.1:6878/ace/getstream?id=078ff574a6ab59e9793563641c00086961bcfd00&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=aee63957f309b2a1ac5b608d835a125103fc6f79&hlc=1&spv=0
 #EXTINF:-1,HBO
 http://127.0.0.1:6878/ace/getstream?id=6c27e1d4d994a1232c4c339551845af793a184d3&hlc=1&spv=0
 #EXTINF:-1,HBO Sursa2
@@ -80,33 +80,41 @@ http://127.0.0.1:6878/ace/getstream?id=c6b9a71b384b7fc6fa177e3536819f377fd03026&
 #EXTINF:-1,Cinemax2
 http://127.0.0.1:6878/ace/getstream?id=63653d93c1ae8ba215e2550d6df369055d6594e6&hlc=1&spv=0
 #EXTINF:-1,TNT
-http://127.0.0.1:6878/ace/getstream?id=ee65e0d5d982042632fa63c48b4b0de0b05300fa&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=aa3cf1c068c7902cd5f83c06e83a0c874a173080&hlc=1&spv=0
 #EXTINF:-1,TV1000
 http://127.0.0.1:6878/ace/getstream?id=fce853b5e89addc90a545c9aefd29e6b2da432ef&hlc=1&spv=0
 #EXTINF:-1,AMC
-http://127.0.0.1:6878/ace/getstream?id=15776f482a563c32085d6cc8d969d1664f3844ec&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=03e3354094f1ff7d3659ae06fb0eead3476fbd00&hlc=1&spv=0
 #EXTINF:-1,FilmCafe
 http://127.0.0.1:6878/ace/getstream?id=dd85b2520489e7a7b9959b8c9f471f5fde379372&hlc=1&spv=0
 #EXTINF:-1,Paramount
 http://127.0.0.1:6878/ace/getstream?id=7e1b95e3ddabb8e63a705a1d01fdf437c2e4b62d&hlc=1&spv=0
 #EXTINF:-1,FilmNow
 http://127.0.0.1:6878/ace/getstream?id=3a6a685ae05473c3dc273ba46222740b59fbcca5&hlc=1&spv=0
-#EXTINF:-1,Filmbox
-http://127.0.0.1:6878/ace/getstream?id=9a2d005de125a3a3ebfb0142641bf82f45f0c2ed&hlc=1&spv=0
-#EXTINF:-1,Filmboxfamily
-http://127.0.0.1:6878/ace/getstream?id=ad79483ef539eb15d9bcca880ee3fb960df97698&hlc=1&spv=0
 #EXTINF:-1,Diva
 http://127.0.0.1:6878/ace/getstream?id=0995b1cb102e6eb0316a881f2c84d7849ff5bf91&hlc=1&spv=0
 #EXTINF:-1,Procinema
-http://127.0.0.1:6878/ace/getstream?id=c8bd97bf739a643c36de38b58cfb98b8d14f80cb&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=4c917576663a72b350237de8fb6c4602f83b1b65&hlc=1&spv=0
 #EXTINF:-1,AXN
 http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&hlc=1&spv=0
-#EXTINF:-1,ComedyCentral
-http://127.0.0.1:6878/ace/getstream?id=a2002a6c5658661533096684bd9f3e3bbc37986d&hlc=1&spv=0
+#EXTINF:-1,Bollywood tv
+http://127.0.0.1:6878/ace/getstream?id=7e30921d56d2dda65b71ab096ca49a7b45dc0aa4&hlc=1&spv=0
 #EXTINF:-1,Discovery
 http://127.0.0.1:6878/ace/getstream?id=624a570584e86f41d63c8411e5c4870a5ed76a56&hlc=1&spv=0
+#EXTINF:-1,Animal planet
+http://127.0.0.1:6878/ace/getstream?id=9f066a7370d5c8233af7851641e1d14008197899&hlc=1&spv=0
+#EXTINF:-1,National Geographic
+http://127.0.0.1:6878/ace/getstream?id=4133acbd161d81bd25b14dc588f1e4e05a773db7&hlc=1&spv=0
 #EXTINF:-1,History
 http://127.0.0.1:6878/ace/getstream?id=3436106579d1b0a585a05cb3f3b99f1d5230cf8d&hlc=1&spv=0
+#EXTINF:-1,Happy channel
+http://127.0.0.1:6878/ace/getstream?id=5ef1f2a29abdf2e4db434ba4baabd8951c6b38e7&hlc=1&spv=0
+#EXTINF:-1,Disney channel
+http://127.0.0.1:6878/ace/getstream?id=258116c0e01f8365d6614d1356f00bd381263b28&hlc=1&spv=0
+#EXTINF:-1,Cartoon network
+http://127.0.0.1:6878/ace/getstream?id=0fe69d38a42207b676ba0fcba0f7667e4df861ca&hlc=1&spv=0
+#EXTINF:-1,Nickelodeon
+http://127.0.0.1:6878/ace/getstream?id=bc0b1cce5af9700694c595e364d248f23e45d133&hlc=1&spv=0
 
 
 
