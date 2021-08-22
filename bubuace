@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1,Antena_1 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=c8f1bb4400cd1abeb461ff52d39ec5f4025db67f&hlc=1&spv=0
-#EXTINF:-1,Antena_1 Sursa2
 http://127.0.0.1:6878/ace/getstream?id=8e61f251d2b54c6d5259c4be802bde0d11f112fe&hlc=1&spv=0
+#EXTINF:-1,Antena_1 Sursa2
+http://127.0.0.1:6878/ace/getstream?id=84f675cef04cf477bb6a9c366b131b86fdabb5b5&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa1
-http://127.0.0.1:6878/ace/getstream?id=83a5d7cd8623ad0e0ca76fb0330eb148901321da&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=77744593df58cbf991268658d304a9ef5559da32&hlc=1&spv=0
 #EXTINF:-1,PROTV Sursa2
-http://127.0.0.1:6878/ace/getstream?id=b9b52cdb3bf2ee5724a15cdc23b8a4b3499d8b2c&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=4d767d66e85abee09d92742000699bafb925487a&hlc=1&spv=0
 #EXTINF:-1,KanalD Sursa1
-http://127.0.0.1:6878/ace/getstream?id=10b346e76e4a9a248193dafdddfd4cca7b84a723&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=0976f71c4cdbe1d651580012e8e542e815320818&hlc=1&spv=0
 #EXTINF:-1,KanalD Sursa2
 http://127.0.0.1:6878/ace/getstream?id=0976f71c4cdbe1d651580012e8e542e815320818&hlc=1&spv=0
 #EXTINF:-1,Primatv Sursa1
-http://127.0.0.1:6878/ace/getstream?id=62153ac0ea6f565371bea66d847af9e97517452d&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28&hlc=1&spv=0
 #EXTINF:-1,Primatv Sursa2
 http://127.0.0.1:6878/ace/getstream?id=872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28&hlc=1&spv=0
 #EXTINF:-1,TVR1 
-http://127.0.0.1:6878/ace/getstream?id=53387479ec78970d3a4e6dc3b1272586a40effdf&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=45ca422e4229b09b9a6e40f00c81cd17c6b93299&hlc=1&spv=0
 #EXTINF:-1,TVR2
 http://127.0.0.1:6878/ace/getstream?id=6393e1b7f8908daf0e0fbbe3b8cec6b4f1e700af&hlc=1&spv=0
 #EXTINF:-1,National Tv
-http://127.0.0.1:6878/ace/getstream?id=804f642795f9bb7c5cc11555be8a127832f8fef1&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=52b9d443dd0ba681694955e523f63c9c1838b890&hlc=1&spv=0
 #EXTINF:-1,Antena Stars
-http://127.0.0.1:6878/ace/getstream?id=ad993905d198b5202ff1c2f27f930b879340a650&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=7ea39c0e603c8a0e6ec0c288cd6134723e5c25f0&hlc=1&spv=0
 #EXTINF:-1,Romaniatv
-http://127.0.0.1:6878/ace/getstream?id=093bf8461aa376e7ec287bdfa6afa8d2cb9ea832&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=6594b61ba6dcf0441310cf3274bda5bbc7b27fc7&hlc=1&spv=0
 #EXTINF:-1,Digi24 
 http://127.0.0.1:6878/ace/getstream?id=b2b8423b7a56ff8afd5db3669fd14f0349b51ac2&hlc=1&spv=0
 #EXTINF:-1,Antena3
-http://127.0.0.1:6878/ace/getstream?id=efc34aee686286a86921d1f3daaffe1ad928c4f5&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4&hlc=1&spv=0
 #EXTINF:-1,B1tv
 http://127.0.0.1:6878/ace/getstream?id=20f8f66659c7b49a140e87002b469dbb3da551d9&hlc=1&spv=0
 #EXTINF:-1,Utv
-http://127.0.0.1:6878/ace/getstream?id=59d4154d1126a9800cc57a0abba64895174026cf&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=0e57e970916ba23ae5abcd428330e8e69e5e849f&hlc=1&spv=0
 #EXTINF:-1,Zutv Sursa1
 http://127.0.0.1:6878/ace/getstream?id=e02c49f4380617bd083d47e85ccf138e84d3c90c&hlc=1&spv=0
 #EXTINF:-1,Zutv Sursa2
@@ -46,7 +46,7 @@ http://127.0.0.1:6878/ace/getstream?id=6797f1863fe577a723811ef14ef67a5a152ee736&
 #EXTINF:-1,TelekomSport1
 http://127.0.0.1:6878/ace/getstream?id=782603a7560ee19ea137ae7f920585023befdce7&hlc=1&spv=0
 #EXTINF:-1,Telekomsport2
-http://127.0.0.1:6878/ace/getstream?id=e43e99d8ad27cf997c139a2fe2aa9fe91f91fda6&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=6681e966c41f088270ff5fc8a599f98412a9c568&hlc=1&spv=0
 #EXTINF:-1,Telekomsport3
 http://127.0.0.1:6878/ace/getstream?id=3b72c466c2ff7408755a7d6591886a0ee52df445&hlc=1&spv=0
 #EXTINF:-1,Digisport
@@ -66,25 +66,25 @@ http://127.0.0.1:6878/ace/getstream?id=a6fb4aca2ab858cb0546f55b17865e3ea50ed1fb&
 #EXTINF:-1,Eurosport2
 http://127.0.0.1:6878/ace/getstream?id=aee63957f309b2a1ac5b608d835a125103fc6f79&hlc=1&spv=0
 #EXTINF:-1,HBO
-http://127.0.0.1:6878/ace/getstream?id=6c27e1d4d994a1232c4c339551845af793a184d3&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=6a874f29ed839896f5272c9263abc399f00c417e&hlc=1&spv=0
 #EXTINF:-1,HBO Sursa2
 http://127.0.0.1:6878/ace/getstream?id=6ea2acc394773e8b8e97a1086a69e34f80c3b6d2&hlc=1&spv=0
-#EXTINF:-1,HBO2 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=05b48e91043e46677631ffd70b76268f044359f1&hlc=1&spv=0
-#EXTINF:-1,HBO3 Sursa1
-http://127.0.0.1:6878/ace/getstream?id=f9544ef9e50370fa3c4a0a91c1957be9159e188c&hlc=1&spv=0
+#EXTINF:-1,HBO2 
+http://127.0.0.1:6878/ace/getstream?id=2f4f00cbbd9ec4d5028faa51e112659795fc6857&hlc=1&spv=0
+#EXTINF:-1,HBO3 
+http://127.0.0.1:6878/ace/getstream?id=448c1852134474728d095ec05f7b945e82ee054e&hlc=1&spv=0
 #EXTINF:-1,Cinemax
 http://127.0.0.1:6878/ace/getstream?id=c6b9a71b384b7fc6fa177e3536819f377fd03026&hlc=1&spv=0
 #EXTINF:-1,Cinemax2
-http://127.0.0.1:6878/ace/getstream?id=63653d93c1ae8ba215e2550d6df369055d6594e6&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=06bdf287af870f2272cd7e77986c563cce42010d&hlc=1&spv=0
 #EXTINF:-1,TNT
 http://127.0.0.1:6878/ace/getstream?id=aa3cf1c068c7902cd5f83c06e83a0c874a173080&hlc=1&spv=0
 #EXTINF:-1,TV1000
-http://127.0.0.1:6878/ace/getstream?id=fce853b5e89addc90a545c9aefd29e6b2da432ef&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=e08e522f510c59569bd537ca539254dc32e11cdb&hlc=1&spv=0
 #EXTINF:-1,AMC
 http://127.0.0.1:6878/ace/getstream?id=03e3354094f1ff7d3659ae06fb0eead3476fbd00&hlc=1&spv=0
 #EXTINF:-1,FilmCafe
-http://127.0.0.1:6878/ace/getstream?id=dd85b2520489e7a7b9959b8c9f471f5fde379372&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=c26764384ee35edcc38daf24432f97986c40a1d8&hlc=1&spv=0
 #EXTINF:-1,Paramount
 http://127.0.0.1:6878/ace/getstream?id=7e1b95e3ddabb8e63a705a1d01fdf437c2e4b62d&hlc=1&spv=0
 #EXTINF:-1,FilmNow
