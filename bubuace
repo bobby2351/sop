@@ -92,13 +92,13 @@ http://127.0.0.1:6878/ace/getstream?id=3a6a685ae05473c3dc273ba46222740b59fbcca5&
 #EXTINF:-1,Diva
 http://127.0.0.1:6878/ace/getstream?id=0995b1cb102e6eb0316a881f2c84d7849ff5bf91&hlc=1&spv=0
 #EXTINF:-1,Procinema
-http://127.0.0.1:6878/ace/getstream?id=4c917576663a72b350237de8fb6c4602f83b1b65&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=7a4fe57f5fa110db7f4a686a06a60f046c898657&hlc=1&spv=0
 #EXTINF:-1,AXN
 http://127.0.0.1:6878/ace/getstream?id=60a604bbf9fb93785cd2b0faf9d3fff92e24631b&hlc=1&spv=0
 #EXTINF:-1,Bollywood tv
 http://127.0.0.1:6878/ace/getstream?id=7e30921d56d2dda65b71ab096ca49a7b45dc0aa4&hlc=1&spv=0
 #EXTINF:-1,Discovery
-http://127.0.0.1:6878/ace/getstream?id=624a570584e86f41d63c8411e5c4870a5ed76a56&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=e8c858bba5f72cf3b33a802573665c164dc57cbd&hlc=1&spv=0
 #EXTINF:-1,Viasat Explorer
 http://127.0.0.1:6878/ace/getstream?id=78224fc4fd963088244cdb84de55df89478b477a&hlc=1&spv=0
 #EXTINF:-1,Animal planet
