@@ -33,6 +33,8 @@ http://127.0.0.1:6878/ace/getstream?id=13d55344568b03a72b4685a2e2004df15d0c457a&
 http://127.0.0.1:6878/ace/getstream?id=c6ba6ed1c472015241f87f2663200f72c50b40e6&hlc=1&spv=0
 #EXTINF:-1,Proarena
 http://127.0.0.1:6878/ace/getstream?id=813a474832768ded2e012d58236f686a7ed9274a&hlc=1&spv=0
+#EXTINF:-1,Discovery
+http://127.0.0.1:6878/ace/getstream?id=0dc10623a1c2cb213871cbd8bcf0ebfb7ccc6f02&hlc=1&spv=0
 #EXTINF:-1,Filme1
 http://127.0.0.1:6878/ace/getstream?id=e9bd52e7b0ace3b1904ceb8bcaa3370123e97d64&hlc=1&spv=0
 #EXTINF:-1,hbo test
@@ -49,20 +51,18 @@ http://127.0.0.1:6878/ace/getstream?id=9cfae198419227e4f1b0443e79f101283237e1c6&
 http://127.0.0.1:6878/ace/getstream?id=ffd0049009b2e8e27e1b967e67759a20a52ee916&hlc=1&spv=0
 #EXTINF:-1,ComedyCentral
 http://127.0.0.1:6878/ace/getstream?id=a2002a6c5658661533096684bd9f3e3bbc37986d&hlc=1&spv=0
-#EXTINF:-1,acasa test
+#EXTINF:-1,Acasatv
 http://127.0.0.1:6878/ace/getstream?id=c73b2cdb3f6097a69b5d23637000f3402af5d4b9&hlc=1&spv=0
+#EXTINF:-1,Antenastars
+http://127.0.0.1:6878/ace/getstream?id=4d98169f6af7f6b4f379542b09c99d7d8cd4db19&hlc=1&spv=0
 #EXTINF:-1,AXN
 http://127.0.0.1:6878/ace/getstream?id=44c07300a796c974b655cc8c6305e547ab182595&hlc=1&spv=0
 #EXTINF:-1,Happy
 http://127.0.0.1:6878/ace/getstream?id=36578ca484df8bc0e290eda20e6c42de0041f2b1&hlc=1&spv=0
 #EXTINF:-1,History
 http://127.0.0.1:6878/ace/getstream?id=af9d26f05efeeae8977e45d3f18baafc727539f9&hlc=1&spv=0
-
-
-
-
-
-
+#EXTINF:-1,Diva
+http://127.0.0.1:6878/ace/getstream?id=146f371912e6c31b1eb688deb177a953cb12b1d0&hlc=1&spv=0
 #EXTINF:-1,National Geographic
 http://127.0.0.1:6878/ace/getstream?id=b1508450ec0d4fb6fb0892d235d21bc981174dae&hlc=1&spv=0
 #EXTINF:-1,AXN Black
@@ -75,11 +75,10 @@ http://127.0.0.1:6878/ace/getstream?id=5cb51df0c0940aaa43bdac8e8625203b08bee3a4&
 http://127.0.0.1:6878/ace/getstream?id=7e30921d56d2dda65b71ab096ca49a7b45dc0aa4&hlc=1&spv=0
 #EXTINF:-1,Natgeo wild
 http://127.0.0.1:6878/ace/getstream?id=a8931d97ad9e925d9659b006d37ec2ab1101c393&hlc=1&spv=0
-
-
-
-
-
+#EXTINF:-1,BBC Earth
+http://127.0.0.1:6878/ace/getstream?id=9d0c99bc76611b7e36d8e103e9e7babbd8ed9265&hlc=1&spv=0
+#EXTINF:-1,TLC
+http://127.0.0.1:6878/ace/getstream?id=23e9be076fdcf62bf623a8dd72b0e65d8fe3cdab&hlc=1&spv=0
 #EXTINF:-1,Cartoon network
 http://127.0.0.1:6878/ace/getstream?id=0a53471694629fc5ecf7fdaaa2b1e3d256cb56da&hlc=1&spv=0
 #EXTINF:-1,Boomerang
@@ -94,6 +93,8 @@ http://127.0.0.1:6878/ace/getstream?id=a2e1e230cc8d83a9450be5d1922321362ee6a573&
 http://127.0.0.1:6878/ace/getstream?id=3b8fec47f38a9444d5c3056f58bb07ce3c36b441&hlc=1&spv=0
 #EXTINF:-1,Nick junior
 http://127.0.0.1:6878/ace/getstream?id=c89d4013cdf1025c0f515e17fd81a3b9b58b16f7&hlc=1&spv=0
+#EXTINF:-1,Minimax
+http://127.0.0.1:6878/ace/getstream?id=b6987dd99aaaa62b5e456102935283fcb03e5f18&hlc=1&spv=0
 
 
 
